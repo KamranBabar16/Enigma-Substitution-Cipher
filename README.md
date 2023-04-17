@@ -1,4 +1,4 @@
-# substitution-cipher
+# Substitution Cipher
 
 This PHP code provides a simple implementation of a substitution cipher, which can be used to encrypt and decrypt messages. The cipher works by replacing each letter in the message with a corresponding value from a predefined key.
 
